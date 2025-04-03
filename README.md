@@ -26,5 +26,5 @@ If you have a built package, you can install it locally using:
 
 `pip install dist/my_package-0.1.0-py3-none-any.whl`
 
-
+Added to develop branch
 

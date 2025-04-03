@@ -5,39 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3a4e42f0-ea2b-4ebf-9ad3-58a97e4c3aa3" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/my_tkinter_app.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/ruff.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LICENSE.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my_tkinter_app.egg-info/PKG-INFO" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my_tkinter_app.egg-info/SOURCES.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my_tkinter_app.egg-info/dependency_links.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my_tkinter_app.egg-info/entry_points.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my_tkinter_app.egg-info/requires.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my_tkinter_app.egg-info/top_level.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyproject.toml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pytest.ini" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-version" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/run.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/run_tests.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/app.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/controller/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/controller/main_controller.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/model/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/model/app_model.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/utils/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/view/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/view/main_view.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tests/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tests/conftest.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tests/test_app.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/uv.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -68,7 +37,7 @@
     "Python.app.executor": "Run",
     "Python.main.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
+    "git-widget-placeholder": "develop",
     "ignore.virus.scanning.warn.message": "true",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
@@ -94,7 +63,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1743664845450</updated>
-      <workItem from="1743664847758" duration="4741000" />
+      <workItem from="1743664847758" duration="5767000" />
     </task>
     <servers />
   </component>
