@@ -9,4 +9,11 @@ my_tkinter_app.egg-info/dependency_links.txt
 my_tkinter_app.egg-info/entry_points.txt
 my_tkinter_app.egg-info/requires.txt
 my_tkinter_app.egg-info/top_level.txt
+my_tkinter_app/controller/__init__.py
+my_tkinter_app/controller/main_controller.py
+my_tkinter_app/model/__init__.py
+my_tkinter_app/model/app_model.py
+my_tkinter_app/utils/__init__.py
+my_tkinter_app/view/__init__.py
+my_tkinter_app/view/main_view.py
 tests/test_app.py

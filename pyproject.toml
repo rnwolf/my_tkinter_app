@@ -1,8 +1,8 @@
 [project]
 name = "my-tkinter-app"
-version = "0.1.1"
+version = "0.1.3"
 description = "Add your description here"
-requires-python = ">=3.13"
+requires-python = ">=3.12"
 license = "GPL-3.0-or-later"
 license-files = ["LICENSE.txt"]
 authors = [
@@ -41,7 +41,9 @@ build-backend = "setuptools.build_meta"
 my-tkinter-app = "my_tkinter_app.app:main"
 
 [tool.setuptools]
-packages = ["my_tkinter_app"]
+#packages = ["my_tkinter_app"]
+# This will find and include the main package and all subpackages
+packages = { find = { include = ["my_tkinter_app", "my_tkinter_app.*"] } }
 
 [tool.ruff.lint]
 # 1. Enable flake8-bugbear (`B`) rules, in addition to the defaults.
