@@ -1,5 +1,5 @@
-from src.model.app_model import AppModel
-from src.view.main_view import MainView
+from my_tkinter_app.model.app_model import AppModel
+from my_tkinter_app.view.main_view import MainView
 
 class MainController:
     def __init__(self):

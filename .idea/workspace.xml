@@ -6,7 +6,21 @@
   <component name="ChangeListManager">
     <list default="true" id="3a4e42f0-ea2b-4ebf-9ad3-58a97e4c3aa3" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my_tkinter_app.egg-info/SOURCES.txt" beforeDir="false" afterPath="$PROJECT_DIR$/my_tkinter_app.egg-info/SOURCES.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my_tkinter_app.egg-info/entry_points.txt" beforeDir="false" afterPath="$PROJECT_DIR$/my_tkinter_app.egg-info/entry_points.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my_tkinter_app.egg-info/top_level.txt" beforeDir="false" afterPath="$PROJECT_DIR$/my_tkinter_app.egg-info/top_level.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pyproject.toml" beforeDir="false" afterPath="$PROJECT_DIR$/pyproject.toml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/run.py" beforeDir="false" afterPath="$PROJECT_DIR$/run.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/my_tkinter_app/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app.py" beforeDir="false" afterPath="$PROJECT_DIR$/my_tkinter_app/app.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/controller/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/my_tkinter_app/controller/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/controller/main_controller.py" beforeDir="false" afterPath="$PROJECT_DIR$/my_tkinter_app/controller/main_controller.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/model/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/my_tkinter_app/model/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/model/app_model.py" beforeDir="false" afterPath="$PROJECT_DIR$/my_tkinter_app/model/app_model.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/utils/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/my_tkinter_app/utils/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/view/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/my_tkinter_app/view/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/view/main_view.py" beforeDir="false" afterPath="$PROJECT_DIR$/my_tkinter_app/view/main_view.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/test_app.py" beforeDir="false" afterPath="$PROJECT_DIR$/tests/test_app.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,30 +37,30 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 3
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
   <component name="ProjectId" id="2vD1UDgDSZ8stZO6Cf8EUktBjaS" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python.app.executor": "Run",
-    "Python.main.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "develop",
-    "ignore.virus.scanning.warn.message": "true",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.app.executor&quot;: &quot;Run&quot;,
+    &quot;Python.main.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;develop&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -64,6 +78,7 @@
       <option name="presentableId" value="Default" />
       <updated>1743664845450</updated>
       <workItem from="1743664847758" duration="5767000" />
+      <workItem from="1743671798189" duration="408000" />
     </task>
     <servers />
   </component>

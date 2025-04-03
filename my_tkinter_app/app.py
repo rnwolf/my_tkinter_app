@@ -1,7 +1,7 @@
-from src.controller.main_controller import MainController
+from my_tkinter_app.controller.main_controller import MainController
 import argparse
 import sys
-from src import __version__  # Import the version from your package
+from my_tkinter_app import __version__  # Import the version from your package
 
 def main() -> None:
     parser = argparse.ArgumentParser(

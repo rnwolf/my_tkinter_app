@@ -1,1 +1,1 @@
-src
+my_tkinter_app

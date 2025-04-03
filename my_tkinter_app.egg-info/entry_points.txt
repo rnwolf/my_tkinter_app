@@ -1,2 +1,2 @@
 [console_scripts]
-my-tkinter-app = src.app:main
+my-tkinter-app = my_tkinter_app.app:main

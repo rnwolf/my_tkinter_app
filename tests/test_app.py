@@ -1,9 +1,9 @@
 from unittest.mock import patch
 import sys
-from src.app import main
+from my_tkinter_app.app import main
 import pytest
 
-@patch('src.controller.main_controller.MainController.run')
+@patch('my_tkinter_app.controller.main_controller.MainController.run')
 def test_main_no_args(mock_run):
     sys.argv = ['app']
     main()
