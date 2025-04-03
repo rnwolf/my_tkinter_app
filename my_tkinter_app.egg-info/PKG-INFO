@@ -1,0 +1,20 @@
+Metadata-Version: 2.4
+Name: my-tkinter-app
+Version: 0.1.0
+Summary: Add your description here
+Author-email: "R.N. Wolf" <rudi@rnwolf.net>
+Maintainer-email: Rüdiger Wolf <rudi@rnwolf.net>
+License-Expression: GPL-3.0-or-later
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.13
+Classifier: Operating System :: OS Independent
+Classifier: Intended Audience :: End Users/Desktop
+Classifier: Intended Audience :: Information Technology
+Classifier: Development Status :: 3 - Alpha
+Classifier: Environment :: Win32 (MS Windows)
+Classifier: Environment :: MacOS X
+Classifier: Natural Language :: English
+Requires-Python: >=3.13
+License-File: LICENSE.txt
+Requires-Dist: tkcalendar>=1.6.1
+Dynamic: license-file
